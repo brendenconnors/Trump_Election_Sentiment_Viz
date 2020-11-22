@@ -1,0 +1,52 @@
+state,call_time,votes,winner
+Georgia,2020-11-19 20:00:00-05:00,16,Biden
+North Carolina,2020-11-13 15:48:00-05:00,15,Trump
+Alaska,2020-11-11 12:16:00-05:00,3,Trump
+Nevada,2020-11-07 12:13:00-05:00,6,Biden
+Pennsylvania,2020-11-07 11:25:00-05:00,20,Biden
+Michigan,2020-11-04 18:00:00-05:00,16,Biden
+Wisconsin,2020-11-04 14:16:00-05:00,10,Biden
+Maine,2020-11-04 03:05:00-05:00,4,Biden
+Arizona,2020-11-04 02:51:00-05:00,11,Biden
+Texas,2020-11-04 01:05:00-05:00,38,Trump
+Florida,2020-11-04 00:35:00-05:00,29,Trump
+Iowa,2020-11-04 00:21:00-05:00,6,Trump
+Montana,2020-11-04 00:20:00-05:00,3,Trump
+Ohio,2020-11-04 00:19:00-05:00,18,Trump
+Minnesota,2020-11-04 00:13:00-05:00,10,Biden
+Hawaii,2020-11-04 00:06:00-05:00,4,Biden
+Utah,2020-11-03 23:07:00-05:00,6,Trump
+Washington,2020-11-03 23:00:00-05:00,12,Biden
+Oregon,2020-11-03 23:00:00-05:00,7,Biden
+Idaho,2020-11-03 23:00:00-05:00,4,Trump
+California,2020-11-03 23:00:00-05:00,55,Biden
+New Hampshire,2020-11-03 22:54:00-05:00,4,Biden
+Missouri,2020-11-03 22:31:00-05:00,10,Trump
+Kansas,2020-11-03 22:00:00-05:00,6,Trump
+Colorado,2020-11-03 21:36:00-05:00,9,Biden
+the District of Columbia,2020-11-03 21:27:00-05:00,3,Biden
+Nebraska,2020-11-03 21:00:00-05:00,5,Trump
+New Mexico,2020-11-03 21:00:00-05:00,5,Biden
+Louisiana,2020-11-03 21:00:00-05:00,8,Trump
+Wyoming,2020-11-03 21:00:00-05:00,3,Trump
+South Dakota,2020-11-03 21:00:00-05:00,3,Trump
+New York,2020-11-03 21:00:00-05:00,29,Biden
+North Dakota,2020-11-03 21:00:00-05:00,3,Trump
+Indiana,2020-11-03 20:52:00-05:00,11,Trump
+Arkansas,2020-11-03 20:30:00-05:00,6,Trump
+Rhode Island,2020-11-03 20:00:00-05:00,4,Biden
+Oklahoma,2020-11-03 20:00:00-05:00,7,Trump
+New Jersey,2020-11-03 20:00:00-05:00,14,Biden
+Massachusetts,2020-11-03 20:00:00-05:00,11,Biden
+Maryland,2020-11-03 20:00:00-05:00,10,Biden
+Tennessee,2020-11-03 20:00:00-05:00,11,Trump
+Illinois,2020-11-03 20:00:00-05:00,20,Biden
+Delaware,2020-11-03 20:00:00-05:00,3,Biden
+Connecticut,2020-11-03 20:00:00-05:00,7,Biden
+Mississippi,2020-11-03 20:00:00-05:00,6,Trump
+Alabama,2020-11-03 20:00:00-05:00,9,Trump
+South Carolina,2020-11-03 19:56:00-05:00,9,Trump
+Virginia,2020-11-03 19:36:00-05:00,13,Biden
+West Virginia,2020-11-03 19:30:00-05:00,5,Trump
+Vermont,2020-11-03 19:00:00-05:00,3,Biden
+Kentucky,2020-11-03 19:00:00-05:00,8,Trump
